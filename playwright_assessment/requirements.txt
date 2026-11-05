@@ -1,0 +1,9 @@
+
+pytest
+pytest-playwright
+pytest-html
+pytest-xdist
+playwright
+requests
+jsonschema
+Faker
